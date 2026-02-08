@@ -1,8 +1,8 @@
 # scheduling_pipeline
 
 ### setup instructions on wsl: 
-pip install dateparser pytz
-cd scheduler
+pip install dateparser pytz <br/>
+cd scheduler <br/>
 python3 main.py
 
 ### assumptions:

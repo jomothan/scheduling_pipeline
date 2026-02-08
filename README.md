@@ -17,3 +17,7 @@ python3 main.py
 * provider interface so google api can be implemented in the future without changing logic
 * ranking is separate from scheduling logic for extensible architecture
 * rule-based nlp is easier to debug
+
+### mock data details:
+* inside calendars/mock_provider.py
+* includes working hours and busy calendar events for each user

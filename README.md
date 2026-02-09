@@ -21,3 +21,6 @@ python3 main.py
 ### mock data details:
 * inside calendars/mock_provider.py
 * includes working hours and busy calendar events for each user
+
+### wireframe
+https://docs.google.com/drawings/d/1CpJdQFVuZ5bu4185koKdE1jd2gJ71mtU0_1r3z8zyz4/edit?usp=sharing
